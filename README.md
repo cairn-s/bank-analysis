@@ -1,6 +1,5 @@
 # Project Title
----
-**Bank Subsription Analysis**
+Bank Subsription Analysis
 
 # Repository Outline
 - `notebook.ipynb` - Main working page, containing data cleaning, problem statements & initial action plan
